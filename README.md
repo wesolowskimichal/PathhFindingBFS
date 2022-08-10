@@ -1,2 +1,3 @@
 # PathhFindingBFS
-Visualized path finding algortithm
+Visualized path finding algortithm (BFS).
+Used: SFML
